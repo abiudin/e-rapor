@@ -1,0 +1,4 @@
+1. Simpan folder ini ke dalam root folder "htdocs"
+2. Buat database dengan nama "ri32-ajax"
+3. Import file "ri32-ajax.sql.zip" kedalam database "ri32-ajax"
+4. Dan jalankan progranya dengan menuliskan di browser : http://localhost/combo/index.php

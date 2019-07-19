@@ -1,0 +1,1 @@
+'$nis','$namasiswa','$tmptlhr','$tgllhr','$sex','$agama','$anakke','$statusdlmklrg','$almtswkb','$telpsw','$klsdtrm','$tgldtrm','$smstdtrm','$nmaslsklh','$almtaslsklh','$thnijzhsmp','$noijzhsmp','$thnskhusmp','$noskhusmp','$nmayhsw','$nmibusw','$almtortusw','$tlportu','$pkrjayh','$pkrjibu','$nmwali','$almtwali','$telpwali',
